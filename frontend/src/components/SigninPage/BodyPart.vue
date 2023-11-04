@@ -1,8 +1,8 @@
 <template>
-            <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
-
+          <!--NAVBAR start-->  
+          <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#" style="font-size: 25px;">INSURANCE</a>
+                    <a class="navbar-brand" href="#" style="font-size: 25px;">ALLIANZ</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     </button>
@@ -29,10 +29,27 @@
                         </li>
                     </ul>
                     <form class="d-flex" role="search">
-                        <button class="btn btn-outline-success" type="submit">Logout</button>
+                        <button class="btn btn-outline-success" type="submit">Sign Up</button>
                     </form>
                     </div>
                 </div>
-                </nav>
-        
+            </nav><br><br><br>
+            <!--NAVBAR end-->
+            <!--Signin card start-->
+            <center>
+            <div class="card shadow-lg p-10 mb-5 bg-body-tertiary rounded" data-bs-theme="dark" style="width: 50%; max-width: 40rem; border-radius: 60px;">
+                    <img src="" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h1 class="card-title">Sign In</h1>
+                    <p class="card-text">Stay updated on your professional world.</p><br>
+                        <form action="#">
+                            <input class="card" type="text" id="fname" name="fname" placeholder="Username..."><br>
+                            <input class="card" type="text" id="password" name="password" placeholder="Password..."><br><br>
+                            <button class="btn btn-primary" type="submit" value="submit">Sign In Now!</button>
+                        </form><br><br>
+                </div>
+            </div>
+            </center>
+            <!--Signin card end-->
+
 </template>

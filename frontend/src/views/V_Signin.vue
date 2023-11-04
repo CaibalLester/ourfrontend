@@ -4,10 +4,9 @@
 	</div>
 </template>
 
-
 <script>
     import BodyPart from"@/components/SigninPage/BodyPart.vue";
-    
+
         export default {
         components: {
             BodyPart
