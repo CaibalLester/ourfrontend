@@ -2,7 +2,7 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-lg-between">
 
-            <h1 class="logo me-auto me-lg-0"><a href="index.html">Gp<span>.</span></a></h1>
+            <h1 class="logo me-auto me-lg-0"><a href="index.html">Allianz PNB</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -10,8 +10,8 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
+          <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -35,7 +35,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-            <a href="#about" class="get-started-btn scrollto">Get Started</a>
+            <a href="#about" class="get-started-btn scrollto">Apply Now</a>
 
         </div>
     </header><!-- End Header -->
@@ -46,12 +46,12 @@
 
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
-                    <h1>Powerful Digital Solutions With Gp<span>.</span></h1>
-                    <h2>We are team of talented digital marketers</h2>
+                    <h1>Allianz PNB CALAPAN</h1>
+                    <h2>Navigating the economic tightrope</h2>
                 </div>
             </div>
 
-            <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+            <!-- <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="ri-store-line"></i>
@@ -82,7 +82,7 @@
                         <h3><a href="">Nemos Enimade</a></h3>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </section><!-- End Hero -->
@@ -99,26 +99,24 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right"
                         data-aos-delay="100">
-                        <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                        <h3>Join Our Team at Allianz PNB Calapan Chapter</h3>
                         <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore
-                            magna aliqua.
+                            Allianz PNB Calapan Chapter consists of a team of professionals dedicated to serving Calapan City. <br>
+                            We specialize in selecting adept agents who excel in marketing a variety of insurance and investment products. <br>
+                            By nurturing strong client relationships, we provide customized financial solutions with a focus on customer satisfaction. <br><br>
+                            Our mission is to educate and empower individuals and businesses in Calapan City, enabling informed decisions for their financial security. <br>
+                            With a wide array of products, we aim to be your reliable partner in navigating the financial landscape, helping you achieve long-term goals confidently
                         </p>
                         <ul>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat.</li>
-                            <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate
-                                velit.</li>
-                            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda
-                                mastiro dolore eu fugiat nulla pariatur.</li>
+                            <li><i class="ri-check-double-line"></i> Age range: 20 to 39 years, demonstrating maturity and dynamism</li>
+                            <li><i class="ri-check-double-line"></i> Prior successful sales experience, meeting targets consistently</li>
+                            <li><i class="ri-check-double-line"></i> Proficiency in diverse sales techniques and deep understanding of sales principles</li>
+                            <li><i class="ri-check-double-line"></i> Strong interpersonal and communication skills for effective client relationships</li>
+                            <li><i class="ri-check-double-line"></i> Adaptable in fast-paced, challenging sales environments</li>
+                            <li><i class="ri-check-double-line"></i> Team player, skilled in collaborative goal achievement</li>
                         </ul>
                         <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-                            in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                            proident
+                            These qualifications are essential for the role and are within your reach. Begin your journey with us by clicking 'Apply Now'.
                         </p>
                     </div>
                 </div>
@@ -127,7 +125,7 @@
         </section><!-- End About Section -->
 
         <!-- ======= Clients Section ======= -->
-        <section id="clients" class="clients">
+        <!-- <section id="clients" class="clients">
             <div class="container" data-aos="zoom-in">
 
                 <div class="clients-slider swiper">
@@ -153,14 +151,17 @@
                 </div>
 
             </div>
-        </section><!-- End Clients Section -->
+        </section> -->
+        <!-- End Clients Section -->
 
         <!-- ======= Features Section ======= -->
     <section id="features" class="features">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("../assets/homepage/img/features.jpg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" data-aos="fade-right" data-aos-delay="100">
+                        <img src="../assets/homepage/img/features.jpg" class="img-fluid" alt="">
+                    </div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
@@ -189,7 +190,7 @@
     </section><!-- End Features Section -->
 
         <!-- ======= Services Section ======= -->
-        <section id="services" class="services">
+        <!-- <section id="services" class="services">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -251,7 +252,7 @@
                 </div>
 
             </div>
-        </section><!-- End Services Section -->
+        </section>End Services Section -->
 
         <!-- ======= Cta Section ======= -->
         <section id="cta" class="cta">
@@ -269,7 +270,7 @@
         </section><!-- End Cta Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        <section id="portfolio" class="portfolio">
+        <!-- <section id="portfolio" class="portfolio">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -437,7 +438,8 @@
                 </div>
 
             </div>
-        </section><!-- End Portfolio Section -->
+        </section> -->
+        <!-- End Portfolio Section -->
 
         <!-- ======= Counts Section ======= -->
         <section id="counts" class="counts">
@@ -692,9 +694,8 @@
                 </div>
 
                 <div>
-                    <iframe style="border:0; width: 100%; height: 270px;"
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
-                        frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1100.6056835754505!2d121.18219735170415!3d13.403829709522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1699152742933!5m2!1sen!2sph" style="border:0; width: 100%; height: 290px"></iframe>
+                    
                 </div>
 
                 <div class="row mt-5">
@@ -789,11 +790,11 @@
                     <div class="col-lg-2 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#home">Home</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li> -->
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li> -->
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
                         </ul>
                     </div>
 
