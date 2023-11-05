@@ -5,38 +5,37 @@
             <h1 class="logo me-auto me-lg-0"><a href="index.html">Allianz PNB</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
             <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-          <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto" href="#about">About</a></li>
+                    <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
+                    <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
+                    <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="V_Signin">Login</a></li>
+                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
+                                        class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li><a href="#">Deep Drop Down 1</a></li>
+                                    <li><a href="#">Deep Drop Down 2</a></li>
+                                    <li><a href="#">Deep Drop Down 3</a></li>
+                                    <li><a href="#">Deep Drop Down 4</a></li>
+                                    <li><a href="#">Deep Drop Down 5</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="V_Signup">Register</a></li>
+                            <li><a href="#">Drop Down 3</a></li>
+                            <li><a href="#">Drop Down 4</a></li>
+                        </ul>
+                    </li>
+                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                 </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
 
-            <a href="#about" class="get-started-btn scrollto">Apply Now</a>
-
+            <a href="/V_Signin" class="get-started-btn scrollto">Apply Now</a>
         </div>
     </header><!-- End Header -->
 
@@ -50,40 +49,6 @@
                     <h2>Navigating the economic tightrope</h2>
                 </div>
             </div>
-
-            <!-- <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-store-line"></i>
-                        <h3><a href="">Lorem Ipsum</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-bar-chart-box-line"></i>
-                        <h3><a href="">Dolor Sitema</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-calendar-todo-line"></i>
-                        <h3><a href="">Sedare Perspiciatis</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-paint-brush-line"></i>
-                        <h3><a href="">Magni Dolores</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="ri-database-2-line"></i>
-                        <h3><a href="">Nemos Enimade</a></h3>
-                    </div>
-                </div>
-            </div> -->
-
         </div>
     </section><!-- End Hero -->
 
@@ -101,158 +66,80 @@
                         data-aos-delay="100">
                         <h3>Join Our Team at Allianz PNB Calapan Chapter</h3>
                         <p class="fst-italic">
-                            Allianz PNB Calapan Chapter consists of a team of professionals dedicated to serving Calapan City. <br>
-                            We specialize in selecting adept agents who excel in marketing a variety of insurance and investment products. <br>
-                            By nurturing strong client relationships, we provide customized financial solutions with a focus on customer satisfaction. <br><br>
-                            Our mission is to educate and empower individuals and businesses in Calapan City, enabling informed decisions for their financial security. <br>
-                            With a wide array of products, we aim to be your reliable partner in navigating the financial landscape, helping you achieve long-term goals confidently
+                            Allianz PNB Calapan Chapter consists of a team of professionals dedicated to serving Calapan
+                            City. <br>
+                            We specialize in selecting adept agents who excel in marketing a variety of insurance and
+                            investment products. <br>
+                            By nurturing strong client relationships, we provide customized financial solutions with a focus
+                            on customer satisfaction. <br><br>
+                            Our mission is to educate and empower individuals and businesses in Calapan City, enabling
+                            informed decisions for their financial security. <br>
+                            With a wide array of products, we aim to be your reliable partner in navigating the financial
+                            landscape, helping you achieve long-term goals confidently
                         </p>
                         <ul>
-                            <li><i class="ri-check-double-line"></i> Age range: 20 to 39 years, demonstrating maturity and dynamism</li>
-                            <li><i class="ri-check-double-line"></i> Prior successful sales experience, meeting targets consistently</li>
-                            <li><i class="ri-check-double-line"></i> Proficiency in diverse sales techniques and deep understanding of sales principles</li>
-                            <li><i class="ri-check-double-line"></i> Strong interpersonal and communication skills for effective client relationships</li>
-                            <li><i class="ri-check-double-line"></i> Adaptable in fast-paced, challenging sales environments</li>
-                            <li><i class="ri-check-double-line"></i> Team player, skilled in collaborative goal achievement</li>
+                            <li><i class="ri-check-double-line"></i> Age range: 20 to 39 years, demonstrating maturity and
+                                dynamism</li>
+                            <li><i class="ri-check-double-line"></i> Prior successful sales experience, meeting targets
+                                consistently</li>
+                            <li><i class="ri-check-double-line"></i> Proficiency in diverse sales techniques and deep
+                                understanding of sales principles</li>
+                            <li><i class="ri-check-double-line"></i> Strong interpersonal and communication skills for
+                                effective client relationships</li>
+                            <li><i class="ri-check-double-line"></i> Adaptable in fast-paced, challenging sales environments
+                            </li>
+                            <li><i class="ri-check-double-line"></i> Team player, skilled in collaborative goal achievement
+                            </li>
                         </ul>
                         <p>
-                            These qualifications are essential for the role and are within your reach. Begin your journey with us by clicking 'Apply Now'.
+                            These qualifications are essential for the role and are within your reach. Begin your journey
+                            with us by clicking 'Apply Now'.
                         </p>
                     </div>
                 </div>
-
             </div>
         </section><!-- End About Section -->
 
         <!-- ======= Clients Section ======= -->
-        <!-- <section id="clients" class="clients">
-            <div class="container" data-aos="zoom-in">
-
-                <div class="clients-slider swiper">
-                    <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-1.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-2.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-3.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-4.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-5.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-6.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-7.png" class="img-fluid"
-                                alt=""></div>
-                        <div class="swiper-slide"><img src="../assets/homepage/img/clients/client-8.png" class="img-fluid"
-                                alt=""></div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section> -->
         <!-- End Clients Section -->
 
         <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row">
-          <div class="image col-lg-6" data-aos="fade-right" data-aos-delay="100">
-                        <img src="../assets/homepage/img/features.jpg" class="img-fluid" alt="">
-                    </div>
-          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
-            <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-            </div>
-            <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End Features Section -->
-
-        <!-- ======= Services Section ======= -->
-        <!-- <section id="services" class="services">
+        <section id="features" class="features">
             <div class="container" data-aos="fade-up">
 
-                <div class="section-title">
-                    <h2>Services</h2>
-                    <p>Check our Services</p>
-                </div>
-
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="">Lorem Ipsum</a></h4>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    <div class="image col-lg-6" data-aos="fade-right" data-aos-delay="100">
+                        <img src="../assets/homepage/img/features.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+                        <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-receipt"></i>
+                            <h4>Est labore ad</h4>
+                            <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-cube-alt"></i>
+                            <h4>Harum esse qui</h4>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-images"></i>
+                            <h4>Aut occaecati</h4>
+                            <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                        </div>
+                        <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
+                            <i class="bx bx-shield"></i>
+                            <h4>Beatae veritatis</h4>
+                            <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
-                        data-aos-delay="200">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bx-file"></i></div>
-                            <h4><a href="">Sed ut perspiciatis</a></h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
-                        data-aos-delay="300">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">Magni Dolores</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bx-world"></i></div>
-                            <h4><a href="">Nemo Enim</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bx-slideshow"></i></div>
-                            <h4><a href="">Dele cardo</a></h4>
-                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-                        <div class="icon-box">
-                            <div class="icon"><i class="bx bx-arch"></i></div>
-                            <h4><a href="">Divera don</a></h4>
-                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-                        </div>
-                    </div>
-
                 </div>
 
             </div>
-        </section>End Services Section -->
+        </section><!-- End Features Section -->
+
+        <!-- ======= Services Section ======= -->
+    
 
         <!-- ======= Cta Section ======= -->
         <section id="cta" class="cta">
@@ -270,176 +157,7 @@
         </section><!-- End Cta Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        <!-- <section id="portfolio" class="portfolio">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Portfolio</h2>
-                    <p>Check our Portfolio</p>
-                </div>
-
-                <div class="row" data-aos="fade-up" data-aos-delay="100">
-                    <div class="col-lg-12 d-flex justify-content-center">
-                        <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
-                            <li data-filter=".filter-card">Card</li>
-                            <li data-filter=".filter-web">Web</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>App 1</h4>
-                                <p>App</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-1.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Web 3</h4>
-                                <p>Web</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-2.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>App 2</h4>
-                                <p>App</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-3.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Card 2</h4>
-                                <p>Card</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-4.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Web 2</h4>
-                                <p>Web</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-5.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>App 3</h4>
-                                <p>App</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-6.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Card 1</h4>
-                                <p>Card</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-7.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Card 3</h4>
-                                <p>Card</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-8.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-wrap">
-                            <img src="../assets/homepage/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4>Web 3</h4>
-                                <p>Web</p>
-                                <div class="portfolio-links">
-                                    <a href="../assets/homepage/img/portfolio/portfolio-9.jpg"
-                                        data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i
-                                            class="bx bx-plus"></i></a>
-                                    <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section> -->
-        <!-- End Portfolio Section -->
+        
 
         <!-- ======= Counts Section ======= -->
         <section id="counts" class="counts">
@@ -460,10 +178,9 @@
                                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                                     <div class="count-box">
                                         <i class="bi bi-emoji-smile"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="65"
+                                        <span data-purecounter-start="0" data-purecounter-end="35"
                                             data-purecounter-duration="2" class="purecounter"></span>
-                                        <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam
-                                            architecto ut.</p>
+                                        <p><strong>Happy agents</strong> From Calapan to all Mindoro province</p>
                                     </div>
                                 </div>
 
@@ -480,7 +197,7 @@
                                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                                     <div class="count-box">
                                         <i class="bi bi-clock"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="35"
+                                        <span data-purecounter-start="0" data-purecounter-end="125"
                                             data-purecounter-duration="4" class="purecounter"></span>
                                         <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus
                                             aut voluptate non vel</p>
@@ -490,9 +207,10 @@
                                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                                     <div class="count-box">
                                         <i class="bi bi-award"></i>
-                                        <span data-purecounter-start="0" data-purecounter-end="20"
+                                        <span data-purecounter-start="0" data-purecounter-end="3"
                                             data-purecounter-duration="4" class="purecounter"></span>
-                                        <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et
+                                        <p><strong>Awards Globaly</strong> rerum asperiores dolor alias quo reprehenderit
+                                            eum et
                                             nemo pad der</p>
                                     </div>
                                 </div>
@@ -504,97 +222,7 @@
             </div>
         </section><!-- End Counts Section -->
 
-        <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
-            <div class="container" data-aos="zoom-in">
-
-                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="../assets/homepage/img/testimonials/testimonials-1.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Saul Goodman</h3>
-                                <h4>Ceo &amp; Founder</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                    rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                    risus at semper.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="../assets/homepage/img/testimonials/testimonials-2.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Sara Wilsson</h3>
-                                <h4>Designer</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                    cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                    legam anim culpa.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="../assets/homepage/img/testimonials/testimonials-3.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Jena Karlis</h3>
-                                <h4>Store Owner</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam
-                                    duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="../assets/homepage/img/testimonials/testimonials-4.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Matt Brandon</h3>
-                                <h4>Freelancer</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat
-                                    minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore
-                                    labore illum veniam.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <img src="../assets/homepage/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>John Larson</h3>
-                                <h4>Entrepreneur</h4>
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                    veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                    culpa fore nisi cillum quid.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                            </div>
-                        </div><!-- End testimonial item -->
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Testimonials Section -->
+        
 
         <!-- ======= Team Section ======= -->
         <section id="team" class="team">
@@ -694,8 +322,10 @@
                 </div>
 
                 <div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1100.6056835754505!2d121.18219735170415!3d13.403829709522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1699152742933!5m2!1sen!2sph" style="border:0; width: 100%; height: 290px"></iframe>
-                    
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1100.6056835754505!2d121.18219735170415!3d13.403829709522304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sph!4v1699152742933!5m2!1sen!2sph"
+                        style="border:0; width: 100%; height: 290px"></iframe>
+
                 </div>
 
                 <div class="row mt-5">
@@ -705,13 +335,13 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>Calapan, Oriental Mindorom, near at C53M+99P, Calapan, Oriental Mindoro</p>
                             </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>info@example.com</p>
+                                <p>AllianzPnbCalapan@gmial.com</p>
                             </div>
 
                             <div class="phone">
@@ -814,44 +444,47 @@
                         <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
-                    </form>
+                        </form>
+
+                    </div>
 
                 </div>
-
             </div>
         </div>
-    </div>
 
-    <div class="container">
-        <div class="copyright">
-            &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
         </div>
-        <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
-    </div>
-</footer><!-- End Footer -->
+    </footer><!-- End Footer -->
 
-<div id="preloader"></div>
-<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 </template>
-<style>@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i');
-
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i');
 @import '../assets/homepage/vendor/aos/aos.css';
-@import '../assets/homepage/vendor/bootstrap-icons/bootstrap-icons.css';
 @import '../assets/homepage/vendor/bootstrap/css/bootstrap.min.css';
+@import '../assets/homepage/vendor/bootstrap-icons/bootstrap-icons.css';
 @import '../assets/homepage/vendor/boxicons/css/boxicons.css';
 @import '../assets/homepage/vendor/glightbox/css/glightbox.css';
 @import '../assets/homepage/vendor/remixicon/remixicon.css';
 @import '../assets/homepage/vendor/swiper/swiper-bundle.min.css';
 @import '../assets/homepage/css/style.css';
 
+
 </style>
 <script>
+
 export default {
     mounted() {
         this.loadScripts();
@@ -859,17 +492,14 @@ export default {
     methods: {
         loadScripts() {
             const scriptUrls = [
-                '/homepage/assets/vendor/swiper/swiper-bundle.min.js',
-                '/homepage/assets/vendor/purecounter/purecounter_vanilla.js',
-                '/homepage/assets/vendor/aos/aos.js',
-                '/homepage/assets/vendor/bootstrap/js/bootstrap.bundle.min.js',
-                '/homepage/assets/vendor/glightbox/js/glightbox.min.js',
-                '/homepage/assets/vendor/isotope-layout/isotope.pkgd.min.js',
-                '/homepage/assets/vendor/swiper/swiper-bundle.min.js',
-                '/homepage/assets/vendor/php-email-form/validate.js',
-                '/homepage/assets/js/main.js',
+                '/homepage/vendor/purecounter/purecounter_vanilla.js',
+                '/homepage/vendor/aos/aos.js',
+                '/homepage/vendor/bootstrap/js/bootstrap.bundle.min.js',
+                '/homepage/vendor/glightbox/js/glightbox.min.js',
+                '/homepage/vendor/isotope-layout/isotope.pkgd.min.js',
+                '/homepage/vendor/swiper/swiper-bundle.min.js',
+                '/homepage/js/main.js',
             ];
-
             const head = document.getElementsByTagName('head')[0];
 
             scriptUrls.forEach((scriptUrl) => {
@@ -881,5 +511,6 @@ export default {
         },
     },
 };
+
 </script>
 

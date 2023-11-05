@@ -1,55 +1,72 @@
 <template>
-          <!--NAVBAR start-->  
-          <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
-                <div class="container-fluid">
-                    <a class="navbar-brand" href="#" style="font-size: 25px;">ALLIANZ</a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li></li>
-                        <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        </li>
-                       
-                        <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Info
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li><hr class="dropdown-divider"></li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
-                        </ul>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link disabled" aria-disabled="true">Contact</a>
-                        </li>
-                    </ul>
-                    <form class="d-flex" role="search">
-                        <button class="btn btn-outline-success" type="submit">Sign Up</button>
-                    </form>
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <div class="wrap d-md-flex">
+                        <div class="img" :style="imgStyle"></div>
+                        <div class="login-wrap p-4 p-md-5">
+                            <div class="d-flex">
+                                <div class="w-100">
+                                    <h3 class="mb-4">Sign In</h3>
+                                </div>
+                                <div class="w-100">
+                                    <p class="social-media d-flex justify-content-end">
+                                        <a href="#"
+                                            class="social-icon d-flex align-items-center justify-content-center"><span
+                                                class="fa fa-facebook"></span></a>
+                                        <a href="#"
+                                            class="social-icon d-flex align-items-center justify-content-center"><span
+                                                class="fa fa-twitter"></span></a>
+                                    </p>
+                                </div>
+                            </div>
+                            <form action="#" class="signin-form">
+                                <div class="form-group mb-3">
+                                    <label class="label" for="name">Username</label>
+                                    <input type="text" class="form-control" placeholder="Username" required>
+                                </div>
+                                <div class="form-group mb-3">
+                                    <label class="label" for="password">Password</label>
+                                    <input type="password" class="form-control" placeholder="Password" required>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign
+                                        In</button>
+                                </div>
+                                <div class="form-group">
+                                    <a href="/" class="form-control btn btn-primary rounded submit px-3">Home</a>
+                                </div>
+                                <div class="form-group d-md-flex">
+                                    <div class="w-50 text-left">
+                                        <label class="checkbox-wrap checkbox-primary mb-0">Remember Me
+                                            <input type="checkbox" checked>
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>
+                                    <div class="w-50 text-md-right">
+                                        <a href="#">Forgot Password</a>
+                                    </div>
+                                </div>
+                            </form>
+                            <p class="text-center">Not a member? <a data-toggle="tab" href="/V_Signup">Sign Up</a></p>
+                        </div>
                     </div>
                 </div>
-            </nav><br><br><br>
-            <!--NAVBAR end-->
-            <!--Signin card start-->
-            <center>
-            <div class="card shadow-lg p-10 mb-5 bg-body-tertiary rounded" data-bs-theme="dark" style="width: 50%; max-width: 40rem; border-radius: 60px;">
-                    <img src="" class="card-img-top" alt="">
-                <div class="card-body">
-                    <h1 class="card-title">Sign In</h1>
-                    <p class="card-text">Stay updated on your professional world.</p><br>
-                        <form action="#">
-                            <input class="card" type="text" id="fname" name="fname" placeholder="Username..."><br>
-                            <input class="card" type="text" id="password" name="password" placeholder="Password..."><br><br>
-                            <button class="btn btn-primary" type="submit" value="submit">Sign In Now!</button>
-                        </form><br><br>
-                </div>
             </div>
-            </center>
-            <!--Signin card end-->
-
+        </div>
+    </section>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      imgStyle: {
+        backgroundImage: "url(" + require('@/assets/log/images/logo.png') + ")",
+        backgroundSize: "contain",
+        backgroundColor: "rgba(1,58,122,255)"
+      }
+    };
+  }
+};
+</script>
