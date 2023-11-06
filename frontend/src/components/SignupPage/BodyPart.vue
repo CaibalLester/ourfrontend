@@ -1,5 +1,9 @@
 <template>
-    <section class="ftco-section">
+    
+
+
+    <section id="bglog" class="d-flex align-items-center justify-content-center">
+
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-10">
@@ -13,13 +17,9 @@
                                 </div>
                                 <div class="w-100">
                                     <p class="social-media d-flex justify-content-end">
-                                        <a href="#"
-                                            class="social-icon d-flex align-items-center justify-content-center"><span
-                                                class="fa fa-facebook"></span></a>
-                                        <a href="#"
-                                            class="social-icon d-flex align-items-center justify-content-center"><span
-                                                class="fa fa-twitter"></span></a>
-                                    </p>
+                                        <button class="btn btn-outline-dark" href="">Home</button>__
+                                        <button class="btn btn-outline-dark" href="">Sign In</button>
+                                    </p><br>
                                 </div>
                             </div>
                             <form @submit.prevent="save">
@@ -35,23 +35,28 @@
                                     <label class="label" for="confirm">Confirm Password</label>
                                     <input type="password" class="form-control" placeholder="Confirm Password" v-model="confirm" required>
                                 </div>
-                                <div class="form-group">
-                                    <button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign
-                                        Up</button>
+                                <div class="form-group mb-3">
+                                    <label class="label" for="role">Role</label>
+                                    <select class="form-control" id="role" v-model="role" required>
+                                        <option value="admin">Admin</option>
+                                        <option value="applicant">Applicant</option>
+                                        <option value="agent">Agent</option>
+                                    </select>
                                 </div>
                                 <div class="form-group">
-                                    <a href="/" class="form-control btn btn-primary rounded submit px-3">Home</a>
+                                    <button type="submit" class="form-control btn btn-dark rounded submit px-3" href="">Sign Up</button>
                                 </div>
+                               
                                 <div class="form-group d-md-flex">
                                     <div class="w-50 text-left">
-                                        <label class="checkbox-wrap checkbox-primary mb-0">Remember Me
+                                        <label class="checkbox-wrap checkbox-dark mb-0">Remember Me
                                             <input type="checkbox" checked>
                                             <span class="checkmark"></span>
                                         </label>
                                     </div>
                                 </div>
                             </form>
-                            <p class="text-center">Already a member? <a data-toggle="tab" href="/V_Signin">Sign In</a></p>
+                          
                         </div>
                 </div>
             </div>

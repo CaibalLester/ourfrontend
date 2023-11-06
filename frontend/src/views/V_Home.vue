@@ -2,7 +2,7 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center justify-content-lg-between">
 
-            <h1 class="logo me-auto me-lg-0"><a href="index.html">Allianz PNB</a></h1>
+            <h1 class="logo me-auto me-lg-0"><a>Allianz PNB</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
             <nav id="navbar" class="navbar order-last order-lg-0">
@@ -12,6 +12,7 @@
                     <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
                     <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li> -->
                     <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                     <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="V_Signin">Login</a></li>
@@ -30,12 +31,12 @@
                             <li><a href="#">Drop Down 4</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
 
-            <a href="/V_Signin" class="get-started-btn scrollto">Apply Now</a>
+            <a href="/V_Signin" class="get-started-btn scrollto">Sign In</a>
         </div>
     </header><!-- End Header -->
 
@@ -46,7 +47,7 @@
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
                     <h1>Allianz PNB CALAPAN</h1>
-                    <h2>Navigating the economic tightrope</h2>
+                    <h2>Our purpose is to give courage to you for what's ahead.</h2>
                 </div>
             </div>
         </div>
@@ -57,7 +58,6 @@
         <!-- ======= About Section ======= -->
         <section id="about" class="about">
             <div class="container" data-aos="fade-up">
-
                 <div class="row">
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
                         <img src="../assets/homepage/img/about.jpg" class="img-fluid" alt="">
@@ -203,7 +203,6 @@
                                             aut voluptate non vel</p>
                                     </div>
                                 </div>
-
                                 <div class="col-md-6 d-md-flex align-items-md-stretch">
                                     <div class="count-box">
                                         <i class="bi bi-award"></i>
@@ -218,7 +217,6 @@
                         </div><!-- End .content-->
                     </div>
                 </div>
-
             </div>
         </section><!-- End Counts Section -->
 
@@ -239,16 +237,10 @@
                         <div class="member" data-aos="fade-up" data-aos-delay="100">
                             <div class="member-img">
                                 <img src="../assets/homepage/img/team/team-1.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
                             </div>
                             <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
+                                <h4>Chris Tabirara</h4>
+                                <span>Admin</span>
                             </div>
                         </div>
                     </div>
@@ -257,15 +249,9 @@
                         <div class="member" data-aos="fade-up" data-aos-delay="200">
                             <div class="member-img">
                                 <img src="../assets/homepage/img/team/team-2.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
                             </div>
                             <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
+                                <h4>Lester Caibal</h4>
                                 <span>Product Manager</span>
                             </div>
                         </div>
@@ -275,34 +261,10 @@
                         <div class="member" data-aos="fade-up" data-aos-delay="300">
                             <div class="member-img">
                                 <img src="../assets/homepage/img/team/team-3.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
                             </div>
                             <div class="member-info">
-                                <h4>William Anderson</h4>
+                                <h4>Jef Ramos</h4>
                                 <span>CTO</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="400">
-                            <div class="member-img">
-                                <img src="../assets/homepage/img/team/team-4.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
                             </div>
                         </div>
                     </div>
